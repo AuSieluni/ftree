@@ -1,7 +1,7 @@
 [
     {
         "name": "English",
-        "tree": "./assets/MaternallinesStabijs - Sheet9.csv",
+        "tree": "./assets/MaternallinesStabijs - AAGJE EXPORT.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
