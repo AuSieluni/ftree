@@ -8,7 +8,7 @@
     },
     {
         "name": "Russian",
-        "tree": "./assets/example.csv",
+        "tree": "./assets/MaterSmal.csv",
         "legend": "./assets/example.ru.json",
         "background": "./assets/map_2x.png",
         "code":"ru"
