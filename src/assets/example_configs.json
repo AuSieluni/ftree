@@ -1,7 +1,7 @@
 [
     {
         "name": "English",
-        "tree": "./assets/AAGJEEXPORT.csv",
+        "tree": "./assets/MaterSmal.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
