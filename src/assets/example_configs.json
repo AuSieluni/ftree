@@ -16,9 +16,9 @@
     {
         "name": "ELSKEH",
         "tree": "./assets/ELSKEH.csv",
-        "legend": "./assets/example.fi.json",
+        "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
-        "code":"fi"
+        "code":"en"
     },
     {
         "name": "HERTHA",
