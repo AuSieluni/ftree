@@ -14,8 +14,8 @@
         "code":"en"
     },
     {
-        "name": "Finnih",
-        "tree": "./assets/ALLfound.csv",
+        "name": "ELSKEH",
+        "tree": "./assets/ELSKEH.csv",
         "legend": "./assets/example.fi.json",
         "background": "./assets/map_2x.png",
         "code":"fi"
