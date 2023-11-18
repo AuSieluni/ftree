@@ -1,13 +1,11 @@
 {
     "map_legend": {
-        "father": "Father",
+        "father": "-",
         "mother": "Mother",
-        "infant_male": "Boy",
-        "infant_female": "Girl Сhild",
-        "deceased": "Deceased"
+        "infant_male": "-",
+        "infant_female": "Сhild",
+        "deceased": "-"
     },
-    "title": "A title for the Family Tree",
-    "subtitle": "An example of a subtitle: \"From ancestors to future generations, from the roots to the top\"",
     "tutorial": "Use scroll for zooming and drag & drop to move around.",
     "birth_abbreviation": "b.",
     "death_abbreviation": "d.",
