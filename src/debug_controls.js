@@ -16,7 +16,7 @@ app.DebugControls = class {
                 .setValues(5, 50, layout.personRadius())
                 .setSuffix('px'),
             new app.Slider('overlap', overlap => layout.setOverlap(g.degToRad(overlap)))
-                .setValues(-360, 360, g.radToDeg(layout.overlap()))
+                .setValues(-360, 400, g.radToDeg(layout.overlap()))
                 .setSuffix('deg'),
         ];
         layoutSliders.forEach(slider => layoutControls.appendChild(slider.element()));
