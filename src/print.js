@@ -13,7 +13,7 @@ function startApplication() {
     // setting defaults
         layout.setPersonRadius(5);
         layout.setSize(7000);
-        layout.setOverlap(g.degToRad(400));
+        layout.setOverlap(g.degToRad(300));
         layout.setInitialRotation(g.degToRad(0));
         layout.setLevelSizeOffset(1, 95);
     layout.addListener(app.LayoutEngine.Events.LayoutRecalculated, onResize);
