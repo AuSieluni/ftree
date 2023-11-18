@@ -1,7 +1,7 @@
 [
     {
         "name": "Aagje test",
-        "tree": "./assets/ALLfound.csv",
+        "tree": "./assets/AAGJE.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
