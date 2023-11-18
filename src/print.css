@@ -100,7 +100,7 @@ footer {
 
 /* Bigger fonts for print version */
 .person .name {
-    font-size: 20px;
+    font-size: 10px;
     transform: translate(0, 3px);
 }
 
