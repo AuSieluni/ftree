@@ -1,17 +1,17 @@
 [
     {
-        "name": "Aagje test",
+        "name": "AAGJE",
         "tree": "./assets/AAGJES.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
     },
     {
-        "name": "Example",
-        "tree": "./assets/example.csv",
+        "name": "AUTGERTSJE",
+        "tree": "./assets/AUTGERTSJEex",
         "legend": "./assets/example.ru.json",
         "background": "./assets/map_2x.png",
-        "code":"ru"
+        "code":"en"
     },
     {
         "name": "Finnih",
@@ -21,10 +21,10 @@
         "code":"fi"
     },
     {
-        "name": "Russian",
-        "tree": "./assets/example.csv",
+        "name": "HERTHA",
+        "tree": "./assets/HERTHAexp",
         "legend": "./assets/example.ru.json",
         "background": "./assets/map_2x.png",
-        "code":"ru"
+        "code":"en"
     }
 ]
