@@ -14,11 +14,11 @@
         "code":"ru"
     },
     {
-        "name": "Allfound",
+        "name": "Finnih",
         "tree": "./assets/ALLfound.csv",
-        "legend": "./assets/example.ru.json",
+        "legend": "./assets/example.fi.json",
         "background": "./assets/map_2x.png",
-        "code":"ru"
+        "code":"fi"
     },
     {
         "name": "Russian",
