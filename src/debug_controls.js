@@ -13,7 +13,7 @@ app.DebugControls = class {
                 .setValues(0, 360, g.radToDeg(layout.initialRotation()))
                 .setSuffix('deg'),
             new app.Slider('radius', radius => layout.setPersonRadius(radius))
-                .setValues(5, 50, layout.personRadius())
+                .setValues(1, 10, layout.personRadius())
                 .setSuffix('px'),
             new app.Slider('overlap', overlap => layout.setOverlap(g.degToRad(overlap)))
                 .setValues(-360, 400, g.radToDeg(layout.overlap()))
@@ -31,10 +31,10 @@ app.DebugControls = class {
                     .setValues(1, 4, renderer.rootFontScale(), 0.1)
                     .setSuffix(' times'),
                 new app.Slider('name font size', fontSize => renderer.setNameFontSize(fontSize))
-                    .setValues(7, 36, renderer.nameFontSize())
+                    .setValues(1, 36, renderer.nameFontSize())
                     .setSuffix('px'),
                 new app.Slider('dates font size', fontSize => renderer.setDatesFontSize(fontSize))
-                    .setValues(7, 36, renderer.datesFontSize())
+                    .setValues(1, 36, renderer.datesFontSize())
                     .setSuffix('px'),
             ];
             rendererSliders.forEach(slider => rendererControls.appendChild(slider.element()));
