@@ -8,7 +8,7 @@
     },
     {
         "name": "AUTGERTSJE",
-        "tree": "./assets/AUTGERTSJEex",
+        "tree": "./assets/AUTGERTSJEex.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
@@ -22,7 +22,7 @@
     },
     {
         "name": "HERTHA",
-        "tree": "./assets/HERTHAexp",
+        "tree": "./assets/HERTHAexp.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
