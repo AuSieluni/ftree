@@ -14,8 +14,8 @@
         "code":"en"
     },
     {
-        "name": "AAGJE",
-        "tree": "./assets/AAGJES.csv",
+        "name": "NOLTSJE",
+        "tree": "./assets/NOLTSJE.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
