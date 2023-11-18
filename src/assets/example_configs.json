@@ -1,10 +1,24 @@
 [
     {
-        "name": "English",
+        "name": "Aagje test",
         "tree": "./assets/AAGJEtest.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
+    },
+    {
+        "name": "Example",
+        "tree": "./assets/example.csv",
+        "legend": "./assets/example.ru.json",
+        "background": "./assets/map_2x.png",
+        "code":"ru"
+    },
+    {
+        "name": "Russian",
+        "tree": "./assets/example.csv",
+        "legend": "./assets/example.ru.json",
+        "background": "./assets/map_2x.png",
+        "code":"ru"
     },
     {
         "name": "Russian",
