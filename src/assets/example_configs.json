@@ -14,8 +14,8 @@
         "code":"ru"
     },
     {
-        "name": "Russian",
-        "tree": "./assets/example.csv",
+        "name": "Allfound",
+        "tree": "./assets/ALLfound.csv",
         "legend": "./assets/example.ru.json",
         "background": "./assets/map_2x.png",
         "code":"ru"
