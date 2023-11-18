@@ -1,7 +1,7 @@
 [
     {
-        "name": "AAGJE",
-        "tree": "./assets/AAGJES.csv",
+        "name": "ELSKEH",
+        "tree": "./assets/ELSKEH.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
@@ -14,8 +14,8 @@
         "code":"en"
     },
     {
-        "name": "ELSKEH",
-        "tree": "./assets/ELSKEH.csv",
+        "name": "AAGJE",
+        "tree": "./assets/AAGJES.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
