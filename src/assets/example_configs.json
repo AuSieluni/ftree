@@ -9,7 +9,7 @@
     {
         "name": "AUTGERTSJE",
         "tree": "./assets/AUTGERTSJEex",
-        "legend": "./assets/example.ru.json",
+        "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
     },
@@ -23,7 +23,7 @@
     {
         "name": "HERTHA",
         "tree": "./assets/HERTHAexp",
-        "legend": "./assets/example.ru.json",
+        "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
     }
