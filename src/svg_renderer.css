@@ -39,21 +39,21 @@
 }
 
 .person .name {
-    font-size: 16px;
+    font-size: 10px;
 }
 
 .person .dates {
-    font-size: 12px;
+    font-size: 5px;
     transform: translate(0, 3px);
 }
 
 .person.root .name {
-    font-size: 24px;
+    font-size: 20px;
     transform: translate(0, 52px);
 }
 
 .person.root .dates {
-    font-size: 17px;
+    font-size: 15px;
     transform: translate(0, 52px);
 }
 
