@@ -14,7 +14,7 @@
         "code":"en"
     },
     {
-        "name": "NOLTSJE",
+        "name": "Noltsje",
         "tree": "./assets/NOLTSJE.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
