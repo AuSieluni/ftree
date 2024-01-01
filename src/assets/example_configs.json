@@ -26,7 +26,7 @@
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
-        ,
+    },
     {
         "name": "AagjeOffspring",
         "tree": "./assets/AAGJEoffspring.csv",
