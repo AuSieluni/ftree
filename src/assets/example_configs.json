@@ -30,8 +30,8 @@
     {
         "name": "AagjeOffspring",
         "tree": "./assets/AAGJEoffspring.csv",
-        "background": "./assets/map_2x.png",
         "legend": "./assets/example.en.json",
+        "background": "./assets/map_2x.png",
         "code":"en"
     }
 ]
