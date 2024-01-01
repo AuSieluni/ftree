@@ -28,7 +28,7 @@
         "code":"en"
     },
     {
-        "name": "AagjeOffspring",
+        "name": "AAGJEoffspring",
         "tree": "./assets/AAGJEoffspring.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
