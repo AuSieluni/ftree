@@ -1,27 +1,13 @@
 [
     {
-        "name": "ELSKEH",
-        "tree": "./assets/ELSKEH.csv",
-        "legend": "./assets/example.en.json",
-        "background": "./assets/map_2x.png",
-        "code":"en"
-    },
-    {
-        "name": "AUTGERTSJE",
+        "name": "AUTGERTSJEoff",
         "tree": "./assets/AUTGERTSJEoffspring.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
         "code":"en"
     },
     {
-        "name": "ABICHJE",
-        "tree": "./assets/ABICHJE.csv",
-        "legend": "./assets/example.en.json",
-        "background": "./assets/map_2x.png",
-        "code":"en"
-    },
-    {
-        "name": "HERTHA",
+        "name": "HERTHAoff",
         "tree": "./assets/HERTHAoffspring.csv",
         "legend": "./assets/example.en.json",
         "background": "./assets/map_2x.png",
